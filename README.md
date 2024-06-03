@@ -1,10 +1,10 @@
-# nuxtplugin-link-resolver
+# nuxt3-plugin-link-resolver
 
 create a `linkResolver`base on your `~/assets/jsons/link-resolver.json`
 
 ```
-  yarn add @lg2/nuxtplugin-link-resolver -D
-  npm i @lg2/nuxtplugin-link-resolver -D
+  yarn add @lg2/nuxt3-plugin-link-resolver -D
+  npm i @lg2/nuxt3-plugin-link-resolver -D
 ```
 
 ```

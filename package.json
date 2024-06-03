@@ -1,20 +1,20 @@
 {
-  "name": "@lg2/nuxtplugin-link-resolver",
+  "name": "@lg2/nuxt3-plugin-link-resolver",
   "version": "0.0.13",
-  "description": "link resolver plugin",
+  "description": "link resolver plugin fro nuxt3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lg2/nuxtplugin-link-resolver.git"
+    "url": "git+ssh://git@github.com/lg2/nuxt3-plugin-link-resolver.git"
   },
   "author": "romain avalle",
   "license": "ISC",
-  "homepage": "https://github.com/lg2/nuxtplugin-link-resolver.git#readme",
+  "homepage": "https://github.com/lg2/nuxt3-plugin-link-resolver.git#readme",
   "bugs": {
-    "url": "https://github.com/lg2/nuxtplugin-link-resolver.git/issues"
+    "url": "https://github.com/lg2/nuxt3-plugin-link-resolver.git/issues"
   },
   "keywords": [
     "nuxt",
