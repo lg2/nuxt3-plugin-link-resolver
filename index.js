@@ -1,4 +1,4 @@
-const linkResolverJSON = require("~/assets/jsons/link-resolver.json");
+import linkResolverJSON from "~/assets/jsons/link-resolver.json";
 const linkResolver = function (data) {
   let route = { ...linkResolverJSON[data.__typename] };
   if (route) {
