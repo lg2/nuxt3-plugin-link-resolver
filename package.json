@@ -1,8 +1,8 @@
 {
   "name": "@lg2/nuxt3-plugin-link-resolver",
-  "version": "0.0.131",
+  "version": "0.0.132",
   "description": "link resolver plugin fro nuxt3",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
